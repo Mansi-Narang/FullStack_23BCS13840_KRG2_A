@@ -1,0 +1,15 @@
+#product {
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  padding: 16px;
+  margin: 12px;
+  max-width: 320px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  background: #fff;
+}
+
+#product p {
+  margin: 6px 0;
+  font-size: 14px;
+  color: #333;
+}
