@@ -1,0 +1,26 @@
+nav {
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: red;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    transition: 0.3s;
+    font-size: 25px;    
+}
+a.active {
+    color: green;
+    font-weight: 700;
+    
+}
+
+a:hover {
+    background-color: beige;
+}
